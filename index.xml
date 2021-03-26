@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Data Science Portfolio on Rizwan Mushtaq Data Science/Research Portfolio</title>
+    <link>https://rizwan-mushtaq-blog.github.io/</link>
+    <description>Recent content in My Data Science Portfolio on Rizwan Mushtaq Data Science/Research Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Mar 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://rizwan-mushtaq-blog.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Predicting Credit Card Behavior in the United States</title>
+      <link>https://rizwan-mushtaq-blog.github.io/post/project-1/</link>
+      <pubDate>Sat, 20 Mar 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rizwan-mushtaq-blog.github.io/post/project-1/</guid>
+      <description>This short paper will help to predict the credit card behavior based on demographic and household characteristics in the United States.
+  Demographic indicators such as age, gender, marital status, financial literacy, education and profession along with household characteristics such as household income state and region of residence will be used to predict the credit card behavior.
+  These variables play might play crucial role in determining the credit card behavior of any individual.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Predicting Stock Market Returns using Time series models</title>
+      <link>https://rizwan-mushtaq-blog.github.io/post/project-2/</link>
+      <pubDate>Wed, 10 Mar 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://rizwan-mushtaq-blog.github.io/post/project-2/</guid>
+      <description>In this study I attempted to forecast and analyzed stock market returns and risk of highest market capitalization and lowest market capitalization companies.
+  I used an open sourced freely available data for that purpose, it can be accessed from Kaggle as well as from the official website of the Kenneth R. French:
+  This data starts from 1927 upto 2018 and includes top and low 10, 20, 30 and 40 portfolios.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Predicting Financial Literacy levels in the USA</title>
+      <link>https://rizwan-mushtaq-blog.github.io/post/project-3/</link>
+      <pubDate>Fri, 11 Dec 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://rizwan-mushtaq-blog.github.io/post/project-3/</guid>
+      <description>The aim of this short paper is to predict the financial literacy levels of US households.
+  Financial literacy is defined as the knowledge of basic financial concepts.
+  For that purpose, I use survey data sets provided by FINRA from 2009 to 2018.
+  I used all the surveys conducted so far that include (108310) number of households in the US.
+  I examine whether we can predict financial literacy level of the participant based on their demographic, education and profession ?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://rizwan-mushtaq-blog.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rizwan-mushtaq-blog.github.io/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
+  </channel>
+</rss>
